@@ -1,1 +1,1 @@
-Pagination Module
+This is the Pagination Module.
